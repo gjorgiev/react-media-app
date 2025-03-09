@@ -17,14 +17,101 @@
       "name": "Alan Franecki"
     },
     {
-      "id": "953d",
-      "name": "Jasmine Hilpert"
+      "id": "34cc",
+      "name": "Ed Towne"
     },
     {
-      "id": "6bd5",
-      "name": "Mrs. Jacqueline O'Reilly"
+      "id": "7e84",
+      "name": "Marty Wolff"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "a779",
+      "userId": "94f4",
+      "title": "Electronic Wooden Cheese"
+    },
+    {
+      "id": "5f50",
+      "userId": "1",
+      "title": "Awesome Frozen Pants"
+    },
+    {
+      "id": "61b6",
+      "userId": "34cc",
+      "title": "Luxurious Metal Ball"
+    },
+    {
+      "id": "bda7",
+      "userId": "94f4",
+      "title": "Generic Fresh Bike"
+    },
+    {
+      "id": "8754",
+      "userId": "8870",
+      "title": "Electronic Rubber Fish"
+    },
+    {
+      "id": "74dc",
+      "userId": "f5ad",
+      "title": "Recycled Granite Gloves"
+    },
+    {
+      "id": "2e44",
+      "userId": "74dc",
+      "title": "Handmade Cotton Hat"
+    },
+    {
+      "id": "da89",
+      "userId": "74dc",
+      "title": "Licensed Soft Chair"
+    },
+    {
+      "id": "ad6f",
+      "userId": "1",
+      "title": "Unbranded Steel Chicken"
+    },
+    {
+      "id": "7766",
+      "userId": "7e84",
+      "title": "Electronic Wooden Soap"
+    }
+  ],
+  "photos": [
+    {
+      "id": "7df4",
+      "albumId": "74dc",
+      "url": "https://loremflickr.com/150/150/abstract?lock=90080"
+    },
+    {
+      "id": "6190",
+      "albumId": "5f50",
+      "url": "https://loremflickr.com/150/150/abstract?lock=18095"
+    },
+    {
+      "id": "3fbd",
+      "albumId": "5f50",
+      "url": "https://loremflickr.com/150/150/abstract?lock=99804"
+    },
+    {
+      "id": "c249",
+      "albumId": "ad6f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=38429"
+    },
+    {
+      "id": "fe28",
+      "albumId": "7766",
+      "url": "https://loremflickr.com/150/150/abstract?lock=10422"
+    },
+    {
+      "id": "a00d",
+      "albumId": "7766",
+      "url": "https://loremflickr.com/150/150/abstract?lock=25013"
+    },
+    {
+      "id": "d46b",
+      "albumId": "7766",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12326"
+    }
+  ]
 }
